@@ -1,0 +1,1 @@
+This code uses the `mysql_*` functions, which are deprecated and have been removed from PHP 7.0 onwards.  Using them can lead to unexpected errors or vulnerabilities.  The code also lacks proper error handling, making it difficult to debug and potentially insecure.
